@@ -16,7 +16,7 @@ Make sure you read and follow the [code of conduct](./.docs/CODE-OF-CONDUCT.md)
 
 ## walking-pal-web Project
 
-This is the official repo for the [WalkingPal website](https://walkingpal.in/).
+This is the official repository for the [WalkingPal website](https://walkingpal.in/).
 
 ![Issues](https://img.shields.io/github/issues/WalkingPal/walking-pal-web)
 ![Pull Requests](https://img.shields.io/github/issues-pr/WalkingPal/walking-pal-web)
